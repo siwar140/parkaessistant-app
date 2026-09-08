@@ -1,0 +1,63 @@
+@startuml
+
+entity "doctors" as doctor {
+    * id : INTEGER <<PK>>
+    --
+    * email : VARCHAR(255) <<UNIQUE>>
+    * hashed_password : VARCHAR(255)
+    * full_name : VARCHAR(255)
+    o phone : VARCHAR(20)
+    o hospital : VARCHAR(255)
+    o specialty : VARCHAR(255)
+    o profile_image : VARCHAR(500)
+    * created_at : DATETIME
+    * updated_at : DATETIME
+}
+
+entity "patients" as patient {
+    * id : INTEGER <<PK>>
+    --
+    * doctor_id : INTEGER <<FK>>
+    * first_name : VARCHAR(100)
+    * last_name : VARCHAR(100)
+    o birth_date : VARCHAR(20)
+    o gender : VARCHAR(20)
+    o phone : VARCHAR(20)
+    o email : VARCHAR(255)
+    o notes : TEXT
+    * created_at : DATETIME
+    * updated_at : DATETIME
+}
+
+entity "predictions" as prediction {
+    * id : INTEGER <<PK>>
+    --
+    * doctor_id : INTEGER <<FK>>
+    o patient_id : INTEGER <<FK>>
+    o patient_name : VARCHAR(255)
+    * file_name : VARCHAR(255)
+    o file_path : VARCHAR(500)
+    * result : VARCHAR(50)
+    * probability : FLOAT
+    * confidence : FLOAT
+    o duration : FLOAT
+    o notes : TEXT
+    * created_at : DATETIME
+}
+
+entity "verification_codes" as verification {
+    * id : INTEGER <<PK>>
+    --
+    * email : VARCHAR(255)
+    * code : VARCHAR(6)
+    o purpose : VARCHAR(20)
+    * is_used : BOOLEAN
+    * created_at : DATETIME
+    * expires_at : DATETIME
+}
+
+doctor ||--o{ patient : "1 à N"
+doctor ||--o{ prediction : "1 à N"
+patient ||--o{ prediction : "1 à N"
+
+@enduml

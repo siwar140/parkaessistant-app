@@ -1,0 +1,90 @@
+@startuml
+!theme plain
+
+class Doctor {
+    - id: int
+    - email: str
+    - hashed_password: str
+    - full_name: str
+    - phone: str
+    - hospital: str
+    - specialty: str
+    - profile_image: str
+    - created_at: datetime
+    - updated_at: datetime
+    + get_profile(): DoctorResponse
+    + update_profile(data: DoctorUpdate): DoctorResponse
+    + update_password(data: DoctorPasswordUpdate): dict
+    + upload_profile_image(file: UploadFile): dict
+}
+
+class Patient {
+    - id: int
+    - doctor_id: int
+    - first_name: str
+    - last_name: str
+    - birth_date: str
+    - gender: str
+    - phone: str
+    - email: str
+    - notes: str
+    - created_at: datetime
+    - updated_at: datetime
+    + get_age(): int
+}
+
+class Prediction {
+    - id: int
+    - doctor_id: int
+    - patient_id: int
+    - patient_name: str
+    - file_name: str
+    - file_path: str
+    - result: str
+    - probability: float
+    - confidence: float
+    - duration: float
+    - notes: str
+    - created_at: datetime
+    + get_result(): dict
+}
+
+class VerificationCode {
+    - id: int
+    - email: str
+    - code: str
+    - purpose: str
+    - is_used: bool
+    - created_at: datetime
+    - expires_at: datetime
+    + verify(): bool
+}
+
+class AuthService {
+    + authenticate(email: str, password: str): Doctor
+    + create_access_token(data: dict): str
+    + verify_password(plain: str, hashed: str): bool
+    + get_password_hash(password: str): str
+}
+
+class EmailService {
+    + send_verification_code(email: str, code: str): bool
+    + create_verification_code(email: str, purpose: str): VerificationCode
+    + verify_code(email: str, code: str, purpose: str): bool
+}
+
+class MLService {
+    + predict(file_path: str): dict
+    + create_spectrogram(file_path: str): np.ndarray
+    + load_model(): Model
+}
+
+Doctor "1" -- "0..*" Patient : possède >
+Doctor "1" -- "0..*" Prediction : effectue >
+Patient "1" -- "0..*" Prediction : a >
+Doctor "1" -- "0..*" VerificationCode : reçoit >
+AuthService ..> Doctor : utilise >
+EmailService ..> VerificationCode : gère >
+MLService ..> Prediction : prédit >
+
+@enduml

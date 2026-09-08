@@ -1,0 +1,6002 @@
+[
+  {
+    "file": "AVPEPUDEAC0001a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001a1.wav",
+    "result": "Malade",
+    "confidence": 0.4968,
+    "probability": 0.4968,
+    "time": 1.63
+  },
+  {
+    "file": "AVPEPUDEAC0001a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001a2.wav",
+    "result": "Sain",
+    "confidence": 0.8781,
+    "probability": 0.1219,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0001a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001a3.wav",
+    "result": "Malade",
+    "confidence": 0.3248,
+    "probability": 0.3248,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0001e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001e1.wav",
+    "result": "Sain",
+    "confidence": 0.9499,
+    "probability": 0.0501,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0001e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001e2.wav",
+    "result": "Sain",
+    "confidence": 0.8687,
+    "probability": 0.1313,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0001e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001e3.wav",
+    "result": "Sain",
+    "confidence": 0.9317,
+    "probability": 0.0683,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0001i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001i1.wav",
+    "result": "Malade",
+    "confidence": 0.291,
+    "probability": 0.291,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0001i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001i2.wav",
+    "result": "Sain",
+    "confidence": 0.8016,
+    "probability": 0.1984,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0001i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001i3.wav",
+    "result": "Malade",
+    "confidence": 0.6258,
+    "probability": 0.6258,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0001o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001o1.wav",
+    "result": "Sain",
+    "confidence": 0.9684,
+    "probability": 0.0316,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0001o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001o2.wav",
+    "result": "Sain",
+    "confidence": 0.9523,
+    "probability": 0.0477,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0001o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001o3.wav",
+    "result": "Sain",
+    "confidence": 0.8633,
+    "probability": 0.1367,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0001u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001u1.wav",
+    "result": "Sain",
+    "confidence": 0.9058,
+    "probability": 0.0942,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0001u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001u2.wav",
+    "result": "Sain",
+    "confidence": 0.9986,
+    "probability": 0.0014,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0001u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0001u3.wav",
+    "result": "Sain",
+    "confidence": 0.9942,
+    "probability": 0.0058,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0003a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003a1.wav",
+    "result": "Malade",
+    "confidence": 0.2413,
+    "probability": 0.2413,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0003a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003a2.wav",
+    "result": "Sain",
+    "confidence": 0.9893,
+    "probability": 0.0107,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0003a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003a3.wav",
+    "result": "Sain",
+    "confidence": 0.9627,
+    "probability": 0.0373,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0003e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003e1.wav",
+    "result": "Sain",
+    "confidence": 0.9839,
+    "probability": 0.0161,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0003e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003e2.wav",
+    "result": "Sain",
+    "confidence": 0.9824,
+    "probability": 0.0176,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0003e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003e3.wav",
+    "result": "Sain",
+    "confidence": 0.9738,
+    "probability": 0.0262,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0003i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003i1.wav",
+    "result": "Malade",
+    "confidence": 0.2784,
+    "probability": 0.2784,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0003i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003i2.wav",
+    "result": "Sain",
+    "confidence": 0.9529,
+    "probability": 0.0471,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0003i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003i3.wav",
+    "result": "Sain",
+    "confidence": 0.8686,
+    "probability": 0.1314,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0003o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003o1.wav",
+    "result": "Sain",
+    "confidence": 0.9907,
+    "probability": 0.0093,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0003o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003o2.wav",
+    "result": "Sain",
+    "confidence": 0.9898,
+    "probability": 0.0102,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0003o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003o3.wav",
+    "result": "Sain",
+    "confidence": 0.9923,
+    "probability": 0.0077,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0003u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003u1.wav",
+    "result": "Sain",
+    "confidence": 0.9782,
+    "probability": 0.0218,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0003u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003u2.wav",
+    "result": "Sain",
+    "confidence": 0.9794,
+    "probability": 0.0206,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0003u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0003u3.wav",
+    "result": "Sain",
+    "confidence": 0.9677,
+    "probability": 0.0323,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004a1.wav",
+    "result": "Sain",
+    "confidence": 0.9453,
+    "probability": 0.0547,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004a2.wav",
+    "result": "Sain",
+    "confidence": 0.9797,
+    "probability": 0.0203,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004a3.wav",
+    "result": "Sain",
+    "confidence": 0.8248,
+    "probability": 0.1752,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004e1.wav",
+    "result": "Sain",
+    "confidence": 0.8319,
+    "probability": 0.1681,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004e2.wav",
+    "result": "Sain",
+    "confidence": 0.8108,
+    "probability": 0.1892,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004e3.wav",
+    "result": "Malade",
+    "confidence": 0.2406,
+    "probability": 0.2406,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004i1.wav",
+    "result": "Malade",
+    "confidence": 0.2026,
+    "probability": 0.2026,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004i2.wav",
+    "result": "Sain",
+    "confidence": 0.904,
+    "probability": 0.096,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004i3.wav",
+    "result": "Sain",
+    "confidence": 0.9639,
+    "probability": 0.0361,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004o1.wav",
+    "result": "Sain",
+    "confidence": 0.8687,
+    "probability": 0.1313,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004o2.wav",
+    "result": "Sain",
+    "confidence": 0.9513,
+    "probability": 0.0487,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004o3.wav",
+    "result": "Sain",
+    "confidence": 0.8535,
+    "probability": 0.1465,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004u1.wav",
+    "result": "Sain",
+    "confidence": 0.9004,
+    "probability": 0.0996,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004u2.wav",
+    "result": "Sain",
+    "confidence": 0.9238,
+    "probability": 0.0762,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0004u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0004u3.wav",
+    "result": "Sain",
+    "confidence": 0.926,
+    "probability": 0.074,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0005a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005a1.wav",
+    "result": "Sain",
+    "confidence": 0.8693,
+    "probability": 0.1307,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0005a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005a2.wav",
+    "result": "Sain",
+    "confidence": 0.831,
+    "probability": 0.169,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0005a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005a3.wav",
+    "result": "Sain",
+    "confidence": 0.9956,
+    "probability": 0.0044,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0005e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005e1.wav",
+    "result": "Sain",
+    "confidence": 0.9877,
+    "probability": 0.0123,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0005e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005e2.wav",
+    "result": "Sain",
+    "confidence": 0.9922,
+    "probability": 0.0078,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0005e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005e3.wav",
+    "result": "Sain",
+    "confidence": 0.9991,
+    "probability": 0.0009,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0005i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005i1.wav",
+    "result": "Sain",
+    "confidence": 0.9977,
+    "probability": 0.0023,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0005i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005i2.wav",
+    "result": "Sain",
+    "confidence": 0.9425,
+    "probability": 0.0575,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0005i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005i3.wav",
+    "result": "Sain",
+    "confidence": 0.9858,
+    "probability": 0.0142,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0005o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005o1.wav",
+    "result": "Sain",
+    "confidence": 0.9932,
+    "probability": 0.0068,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0005o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005o2.wav",
+    "result": "Sain",
+    "confidence": 0.9993,
+    "probability": 0.0007,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0005o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005o3.wav",
+    "result": "Sain",
+    "confidence": 0.9995,
+    "probability": 0.0005,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0005u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005u1.wav",
+    "result": "Sain",
+    "confidence": 0.9872,
+    "probability": 0.0128,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0005u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005u2.wav",
+    "result": "Sain",
+    "confidence": 0.9972,
+    "probability": 0.0028,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0005u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0005u3.wav",
+    "result": "Sain",
+    "confidence": 0.9786,
+    "probability": 0.0214,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0006a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006a1.wav",
+    "result": "Malade",
+    "confidence": 0.9408,
+    "probability": 0.9408,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0006a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006a2.wav",
+    "result": "Sain",
+    "confidence": 0.9916,
+    "probability": 0.0084,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0006a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006a3.wav",
+    "result": "Sain",
+    "confidence": 0.994,
+    "probability": 0.006,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0006e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006e1.wav",
+    "result": "Malade",
+    "confidence": 0.9952,
+    "probability": 0.9952,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0006e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006e2.wav",
+    "result": "Sain",
+    "confidence": 0.9292,
+    "probability": 0.0708,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0006e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006e3.wav",
+    "result": "Sain",
+    "confidence": 0.9939,
+    "probability": 0.0061,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0006i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006i1.wav",
+    "result": "Sain",
+    "confidence": 0.9863,
+    "probability": 0.0137,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0006i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006i2.wav",
+    "result": "Malade",
+    "confidence": 0.7882,
+    "probability": 0.7882,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0006i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006i3.wav",
+    "result": "Sain",
+    "confidence": 0.9998,
+    "probability": 0.0002,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0006o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006o1.wav",
+    "result": "Sain",
+    "confidence": 1.0,
+    "probability": 0.0,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0006o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006o2.wav",
+    "result": "Sain",
+    "confidence": 1.0,
+    "probability": 0.0,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0006o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006o3.wav",
+    "result": "Sain",
+    "confidence": 1.0,
+    "probability": 0.0,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0006u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006u1.wav",
+    "result": "Sain",
+    "confidence": 1.0,
+    "probability": 0.0,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0006u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006u2.wav",
+    "result": "Sain",
+    "confidence": 0.9999,
+    "probability": 0.0001,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0006u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0006u3.wav",
+    "result": "Sain",
+    "confidence": 1.0,
+    "probability": 0.0,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0007a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007a1.wav",
+    "result": "Sain",
+    "confidence": 0.9764,
+    "probability": 0.0236,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0007a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007a2.wav",
+    "result": "Malade",
+    "confidence": 0.3421,
+    "probability": 0.3421,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0007a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007a3.wav",
+    "result": "Sain",
+    "confidence": 0.9696,
+    "probability": 0.0304,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0007e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007e1.wav",
+    "result": "Sain",
+    "confidence": 0.9974,
+    "probability": 0.0026,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0007e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007e2.wav",
+    "result": "Sain",
+    "confidence": 0.9925,
+    "probability": 0.0075,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0007e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007e3.wav",
+    "result": "Sain",
+    "confidence": 0.9642,
+    "probability": 0.0358,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0007i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007i1.wav",
+    "result": "Sain",
+    "confidence": 0.995,
+    "probability": 0.005,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0007i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007i2.wav",
+    "result": "Sain",
+    "confidence": 0.9979,
+    "probability": 0.0021,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0007i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007i3.wav",
+    "result": "Sain",
+    "confidence": 0.9982,
+    "probability": 0.0018,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0007o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007o1.wav",
+    "result": "Sain",
+    "confidence": 0.9528,
+    "probability": 0.0472,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0007o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007o2.wav",
+    "result": "Sain",
+    "confidence": 0.9357,
+    "probability": 0.0643,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0007o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007o3.wav",
+    "result": "Sain",
+    "confidence": 0.9644,
+    "probability": 0.0356,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0007u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007u1.wav",
+    "result": "Sain",
+    "confidence": 0.9957,
+    "probability": 0.0043,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0007u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007u2.wav",
+    "result": "Sain",
+    "confidence": 0.997,
+    "probability": 0.003,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0007u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0007u3.wav",
+    "result": "Sain",
+    "confidence": 0.9958,
+    "probability": 0.0042,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0008a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008a1.wav",
+    "result": "Sain",
+    "confidence": 0.9844,
+    "probability": 0.0156,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0008a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008a2.wav",
+    "result": "Sain",
+    "confidence": 0.8412,
+    "probability": 0.1588,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0008a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008a3.wav",
+    "result": "Sain",
+    "confidence": 0.9182,
+    "probability": 0.0818,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0008e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008e1.wav",
+    "result": "Malade",
+    "confidence": 0.9905,
+    "probability": 0.9905,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0008e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008e2.wav",
+    "result": "Malade",
+    "confidence": 0.8997,
+    "probability": 0.8997,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0008e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008e3.wav",
+    "result": "Malade",
+    "confidence": 0.451,
+    "probability": 0.451,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0008i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008i1.wav",
+    "result": "Malade",
+    "confidence": 0.2469,
+    "probability": 0.2469,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0008i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008i2.wav",
+    "result": "Sain",
+    "confidence": 0.908,
+    "probability": 0.092,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0008i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008i3.wav",
+    "result": "Sain",
+    "confidence": 0.9839,
+    "probability": 0.0161,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0008o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008o1.wav",
+    "result": "Malade",
+    "confidence": 0.2705,
+    "probability": 0.2705,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0008o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008o2.wav",
+    "result": "Sain",
+    "confidence": 0.9322,
+    "probability": 0.0678,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0008o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008o3.wav",
+    "result": "Sain",
+    "confidence": 0.977,
+    "probability": 0.023,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0008u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008u1.wav",
+    "result": "Sain",
+    "confidence": 0.9882,
+    "probability": 0.0118,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0008u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008u2.wav",
+    "result": "Sain",
+    "confidence": 0.9908,
+    "probability": 0.0092,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0008u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0008u3.wav",
+    "result": "Sain",
+    "confidence": 0.999,
+    "probability": 0.001,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0010a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010a1.wav",
+    "result": "Sain",
+    "confidence": 0.9133,
+    "probability": 0.0867,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0010a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010a2.wav",
+    "result": "Sain",
+    "confidence": 0.9952,
+    "probability": 0.0048,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0010a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010a3.wav",
+    "result": "Sain",
+    "confidence": 0.9439,
+    "probability": 0.0561,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0010e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010e1.wav",
+    "result": "Sain",
+    "confidence": 0.9901,
+    "probability": 0.0099,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0010e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010e2.wav",
+    "result": "Sain",
+    "confidence": 0.9878,
+    "probability": 0.0122,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0010e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010e3.wav",
+    "result": "Sain",
+    "confidence": 0.922,
+    "probability": 0.078,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0010i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010i1.wav",
+    "result": "Sain",
+    "confidence": 0.9516,
+    "probability": 0.0484,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0010i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010i2.wav",
+    "result": "Sain",
+    "confidence": 0.9212,
+    "probability": 0.0788,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0010i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010i3.wav",
+    "result": "Malade",
+    "confidence": 0.6256,
+    "probability": 0.6256,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0010o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010o1.wav",
+    "result": "Sain",
+    "confidence": 0.893,
+    "probability": 0.107,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0010o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010o2.wav",
+    "result": "Sain",
+    "confidence": 0.8163,
+    "probability": 0.1837,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0010o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010o3.wav",
+    "result": "Sain",
+    "confidence": 0.8625,
+    "probability": 0.1375,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0010u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010u1.wav",
+    "result": "Sain",
+    "confidence": 0.8909,
+    "probability": 0.1091,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0010u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010u2.wav",
+    "result": "Sain",
+    "confidence": 0.819,
+    "probability": 0.181,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0010u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0010u3.wav",
+    "result": "Malade",
+    "confidence": 0.3632,
+    "probability": 0.3632,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0011a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011a1.wav",
+    "result": "Malade",
+    "confidence": 0.2171,
+    "probability": 0.2171,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0011a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011a2.wav",
+    "result": "Malade",
+    "confidence": 0.2685,
+    "probability": 0.2685,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0011a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011a3.wav",
+    "result": "Sain",
+    "confidence": 0.9623,
+    "probability": 0.0377,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0011e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011e1.wav",
+    "result": "Malade",
+    "confidence": 0.2364,
+    "probability": 0.2364,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0011e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011e2.wav",
+    "result": "Sain",
+    "confidence": 0.9748,
+    "probability": 0.0252,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0011e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011e3.wav",
+    "result": "Malade",
+    "confidence": 0.2751,
+    "probability": 0.2751,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0011i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011i1.wav",
+    "result": "Sain",
+    "confidence": 0.9478,
+    "probability": 0.0522,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0011i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011i2.wav",
+    "result": "Sain",
+    "confidence": 0.9275,
+    "probability": 0.0725,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0011i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011i3.wav",
+    "result": "Sain",
+    "confidence": 0.904,
+    "probability": 0.096,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0011o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011o1.wav",
+    "result": "Sain",
+    "confidence": 0.8995,
+    "probability": 0.1005,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0011o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011o2.wav",
+    "result": "Malade",
+    "confidence": 0.2396,
+    "probability": 0.2396,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0011o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011o3.wav",
+    "result": "Malade",
+    "confidence": 0.3452,
+    "probability": 0.3452,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0011u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011u1.wav",
+    "result": "Sain",
+    "confidence": 0.9764,
+    "probability": 0.0236,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0011u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011u2.wav",
+    "result": "Sain",
+    "confidence": 0.9717,
+    "probability": 0.0283,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0011u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0011u3.wav",
+    "result": "Sain",
+    "confidence": 0.9474,
+    "probability": 0.0526,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0012a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012a1.wav",
+    "result": "Malade",
+    "confidence": 0.5589,
+    "probability": 0.5589,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0012a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012a2.wav",
+    "result": "Sain",
+    "confidence": 0.9569,
+    "probability": 0.0431,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0012a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012a3.wav",
+    "result": "Sain",
+    "confidence": 0.8984,
+    "probability": 0.1016,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0012e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012e1.wav",
+    "result": "Malade",
+    "confidence": 0.8287,
+    "probability": 0.8287,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0012e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012e2.wav",
+    "result": "Malade",
+    "confidence": 0.292,
+    "probability": 0.292,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0012e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012e3.wav",
+    "result": "Sain",
+    "confidence": 0.9622,
+    "probability": 0.0378,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0012i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012i1.wav",
+    "result": "Malade",
+    "confidence": 0.2811,
+    "probability": 0.2811,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0012i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012i2.wav",
+    "result": "Malade",
+    "confidence": 0.4854,
+    "probability": 0.4854,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0012i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012i3.wav",
+    "result": "Malade",
+    "confidence": 0.3332,
+    "probability": 0.3332,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0012o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012o1.wav",
+    "result": "Malade",
+    "confidence": 0.8661,
+    "probability": 0.8661,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0012o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012o2.wav",
+    "result": "Sain",
+    "confidence": 0.8689,
+    "probability": 0.1311,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0012o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012o3.wav",
+    "result": "Malade",
+    "confidence": 0.3908,
+    "probability": 0.3908,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0012u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012u1.wav",
+    "result": "Malade",
+    "confidence": 0.292,
+    "probability": 0.292,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0012u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012u2.wav",
+    "result": "Sain",
+    "confidence": 0.853,
+    "probability": 0.147,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0012u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0012u3.wav",
+    "result": "Sain",
+    "confidence": 0.8447,
+    "probability": 0.1553,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0013a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013a1.wav",
+    "result": "Sain",
+    "confidence": 0.9867,
+    "probability": 0.0133,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0013a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013a2.wav",
+    "result": "Sain",
+    "confidence": 0.9079,
+    "probability": 0.0921,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0013a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013a3.wav",
+    "result": "Sain",
+    "confidence": 0.9268,
+    "probability": 0.0732,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0013e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013e1.wav",
+    "result": "Malade",
+    "confidence": 0.9039,
+    "probability": 0.9039,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0013e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013e2.wav",
+    "result": "Malade",
+    "confidence": 0.3472,
+    "probability": 0.3472,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0013e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013e3.wav",
+    "result": "Sain",
+    "confidence": 0.9742,
+    "probability": 0.0258,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0013i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013i1.wav",
+    "result": "Sain",
+    "confidence": 0.9383,
+    "probability": 0.0617,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0013i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013i2.wav",
+    "result": "Sain",
+    "confidence": 0.857,
+    "probability": 0.143,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0013i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013i3.wav",
+    "result": "Sain",
+    "confidence": 0.9625,
+    "probability": 0.0375,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0013o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013o1.wav",
+    "result": "Sain",
+    "confidence": 0.9785,
+    "probability": 0.0215,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0013o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013o2.wav",
+    "result": "Sain",
+    "confidence": 0.9992,
+    "probability": 0.0008,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0013o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013o3.wav",
+    "result": "Sain",
+    "confidence": 0.9995,
+    "probability": 0.0005,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0013u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013u1.wav",
+    "result": "Sain",
+    "confidence": 0.9678,
+    "probability": 0.0322,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0013u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013u2.wav",
+    "result": "Sain",
+    "confidence": 0.985,
+    "probability": 0.015,
+    "time": 0.07
+  },
+  {
+    "file": "AVPEPUDEAC0013u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0013u3.wav",
+    "result": "Sain",
+    "confidence": 0.9849,
+    "probability": 0.0151,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014a1.wav",
+    "result": "Malade",
+    "confidence": 0.6917,
+    "probability": 0.6917,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0014a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014a2.wav",
+    "result": "Sain",
+    "confidence": 0.8622,
+    "probability": 0.1378,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0014a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014a3.wav",
+    "result": "Malade",
+    "confidence": 0.9676,
+    "probability": 0.9676,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014e1.wav",
+    "result": "Malade",
+    "confidence": 0.9794,
+    "probability": 0.9794,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014e2.wav",
+    "result": "Malade",
+    "confidence": 0.9841,
+    "probability": 0.9841,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014e3.wav",
+    "result": "Malade",
+    "confidence": 0.7711,
+    "probability": 0.7711,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014i1.wav",
+    "result": "Sain",
+    "confidence": 0.9482,
+    "probability": 0.0518,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014i2.wav",
+    "result": "Sain",
+    "confidence": 0.9673,
+    "probability": 0.0327,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014i3.wav",
+    "result": "Sain",
+    "confidence": 0.957,
+    "probability": 0.043,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014o1.wav",
+    "result": "Sain",
+    "confidence": 0.9862,
+    "probability": 0.0138,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014o2.wav",
+    "result": "Sain",
+    "confidence": 0.9452,
+    "probability": 0.0548,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014o3.wav",
+    "result": "Malade",
+    "confidence": 0.4528,
+    "probability": 0.4528,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014u1.wav",
+    "result": "Sain",
+    "confidence": 0.9389,
+    "probability": 0.0611,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014u2.wav",
+    "result": "Sain",
+    "confidence": 0.9714,
+    "probability": 0.0286,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0014u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0014u3.wav",
+    "result": "Sain",
+    "confidence": 0.9912,
+    "probability": 0.0088,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0015a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015a1.wav",
+    "result": "Sain",
+    "confidence": 0.9864,
+    "probability": 0.0136,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0015a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015a2.wav",
+    "result": "Sain",
+    "confidence": 0.9789,
+    "probability": 0.0211,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0015a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015a3.wav",
+    "result": "Sain",
+    "confidence": 0.9626,
+    "probability": 0.0374,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0015e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015e1.wav",
+    "result": "Sain",
+    "confidence": 0.8878,
+    "probability": 0.1122,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0015e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015e2.wav",
+    "result": "Sain",
+    "confidence": 0.9822,
+    "probability": 0.0178,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0015e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015e3.wav",
+    "result": "Sain",
+    "confidence": 0.8191,
+    "probability": 0.1809,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0015i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015i1.wav",
+    "result": "Sain",
+    "confidence": 0.9122,
+    "probability": 0.0878,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0015i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015i2.wav",
+    "result": "Sain",
+    "confidence": 0.927,
+    "probability": 0.073,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0015i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015i3.wav",
+    "result": "Sain",
+    "confidence": 0.9095,
+    "probability": 0.0905,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0015o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015o1.wav",
+    "result": "Sain",
+    "confidence": 0.9235,
+    "probability": 0.0765,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0015o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015o2.wav",
+    "result": "Sain",
+    "confidence": 0.9849,
+    "probability": 0.0151,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0015o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015o3.wav",
+    "result": "Sain",
+    "confidence": 0.9327,
+    "probability": 0.0673,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0015u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015u1.wav",
+    "result": "Sain",
+    "confidence": 0.8641,
+    "probability": 0.1359,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0015u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015u2.wav",
+    "result": "Sain",
+    "confidence": 0.9692,
+    "probability": 0.0308,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0015u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0015u3.wav",
+    "result": "Sain",
+    "confidence": 0.9248,
+    "probability": 0.0752,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0016a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016a1.wav",
+    "result": "Sain",
+    "confidence": 0.9628,
+    "probability": 0.0372,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0016a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016a2.wav",
+    "result": "Sain",
+    "confidence": 0.8016,
+    "probability": 0.1984,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0016a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016a3.wav",
+    "result": "Malade",
+    "confidence": 0.2615,
+    "probability": 0.2615,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0016e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016e1.wav",
+    "result": "Malade",
+    "confidence": 0.3356,
+    "probability": 0.3356,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0016e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016e2.wav",
+    "result": "Malade",
+    "confidence": 0.2236,
+    "probability": 0.2236,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0016e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016e3.wav",
+    "result": "Malade",
+    "confidence": 0.7935,
+    "probability": 0.7935,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0016i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016i1.wav",
+    "result": "Malade",
+    "confidence": 0.369,
+    "probability": 0.369,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0016i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016i2.wav",
+    "result": "Malade",
+    "confidence": 0.478,
+    "probability": 0.478,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0016i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016i3.wav",
+    "result": "Malade",
+    "confidence": 0.7617,
+    "probability": 0.7617,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0016o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016o1.wav",
+    "result": "Malade",
+    "confidence": 0.6527,
+    "probability": 0.6527,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0016o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016o2.wav",
+    "result": "Malade",
+    "confidence": 0.4057,
+    "probability": 0.4057,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0016o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016o3.wav",
+    "result": "Malade",
+    "confidence": 0.4142,
+    "probability": 0.4142,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0016u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016u1.wav",
+    "result": "Sain",
+    "confidence": 0.9297,
+    "probability": 0.0703,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0016u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016u2.wav",
+    "result": "Sain",
+    "confidence": 0.8539,
+    "probability": 0.1461,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0016u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0016u3.wav",
+    "result": "Malade",
+    "confidence": 0.676,
+    "probability": 0.676,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0017a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017a1.wav",
+    "result": "Malade",
+    "confidence": 0.8579,
+    "probability": 0.8579,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0017a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017a2.wav",
+    "result": "Sain",
+    "confidence": 0.9722,
+    "probability": 0.0278,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0017a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017a3.wav",
+    "result": "Malade",
+    "confidence": 0.3955,
+    "probability": 0.3955,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0017e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017e1.wav",
+    "result": "Malade",
+    "confidence": 0.3626,
+    "probability": 0.3626,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0017e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017e2.wav",
+    "result": "Malade",
+    "confidence": 0.352,
+    "probability": 0.352,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0017e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017e3.wav",
+    "result": "Sain",
+    "confidence": 0.9336,
+    "probability": 0.0664,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0017i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017i1.wav",
+    "result": "Malade",
+    "confidence": 0.6273,
+    "probability": 0.6273,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0017i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017i2.wav",
+    "result": "Malade",
+    "confidence": 0.576,
+    "probability": 0.576,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0017i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017i3.wav",
+    "result": "Sain",
+    "confidence": 0.9573,
+    "probability": 0.0427,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0017o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017o1.wav",
+    "result": "Sain",
+    "confidence": 0.8241,
+    "probability": 0.1759,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0017o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017o2.wav",
+    "result": "Sain",
+    "confidence": 0.9027,
+    "probability": 0.0973,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0017o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017o3.wav",
+    "result": "Sain",
+    "confidence": 0.9059,
+    "probability": 0.0941,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0017u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017u1.wav",
+    "result": "Sain",
+    "confidence": 0.9275,
+    "probability": 0.0725,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0017u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017u2.wav",
+    "result": "Sain",
+    "confidence": 0.9198,
+    "probability": 0.0802,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0017u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0017u3.wav",
+    "result": "Sain",
+    "confidence": 0.8829,
+    "probability": 0.1171,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0018a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018a1.wav",
+    "result": "Sain",
+    "confidence": 0.9091,
+    "probability": 0.0909,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0018a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018a2.wav",
+    "result": "Sain",
+    "confidence": 0.8403,
+    "probability": 0.1597,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0018a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018a3.wav",
+    "result": "Malade",
+    "confidence": 0.3824,
+    "probability": 0.3824,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0018e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018e1.wav",
+    "result": "Sain",
+    "confidence": 0.9778,
+    "probability": 0.0222,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0018e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018e2.wav",
+    "result": "Sain",
+    "confidence": 0.9589,
+    "probability": 0.0411,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0018e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018e3.wav",
+    "result": "Malade",
+    "confidence": 0.503,
+    "probability": 0.503,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0018i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018i1.wav",
+    "result": "Sain",
+    "confidence": 0.9813,
+    "probability": 0.0187,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0018i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018i2.wav",
+    "result": "Sain",
+    "confidence": 0.9449,
+    "probability": 0.0551,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0018i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018i3.wav",
+    "result": "Malade",
+    "confidence": 0.2665,
+    "probability": 0.2665,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0018o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018o1.wav",
+    "result": "Malade",
+    "confidence": 0.2553,
+    "probability": 0.2553,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0018o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018o2.wav",
+    "result": "Malade",
+    "confidence": 0.2145,
+    "probability": 0.2145,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0018o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018o3.wav",
+    "result": "Sain",
+    "confidence": 0.9984,
+    "probability": 0.0016,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0018u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018u1.wav",
+    "result": "Sain",
+    "confidence": 0.9352,
+    "probability": 0.0648,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0018u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018u2.wav",
+    "result": "Sain",
+    "confidence": 0.8049,
+    "probability": 0.1951,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0018u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0018u3.wav",
+    "result": "Sain",
+    "confidence": 0.9957,
+    "probability": 0.0043,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0019a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019a1.wav",
+    "result": "Malade",
+    "confidence": 0.357,
+    "probability": 0.357,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0019a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019a2.wav",
+    "result": "Malade",
+    "confidence": 0.5906,
+    "probability": 0.5906,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0019a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019a3.wav",
+    "result": "Malade",
+    "confidence": 0.9255,
+    "probability": 0.9255,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0019e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019e1.wav",
+    "result": "Sain",
+    "confidence": 0.8678,
+    "probability": 0.1322,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0019e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019e2.wav",
+    "result": "Sain",
+    "confidence": 0.972,
+    "probability": 0.028,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0019e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019e3.wav",
+    "result": "Sain",
+    "confidence": 0.9575,
+    "probability": 0.0425,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0019i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019i1.wav",
+    "result": "Sain",
+    "confidence": 0.9654,
+    "probability": 0.0346,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0019i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019i2.wav",
+    "result": "Sain",
+    "confidence": 0.9535,
+    "probability": 0.0465,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0019i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019i3.wav",
+    "result": "Sain",
+    "confidence": 0.9649,
+    "probability": 0.0351,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0019o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019o1.wav",
+    "result": "Sain",
+    "confidence": 0.9575,
+    "probability": 0.0425,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0019o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019o2.wav",
+    "result": "Malade",
+    "confidence": 0.2809,
+    "probability": 0.2809,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0019o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019o3.wav",
+    "result": "Malade",
+    "confidence": 0.3009,
+    "probability": 0.3009,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0019u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019u1.wav",
+    "result": "Sain",
+    "confidence": 0.9608,
+    "probability": 0.0392,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0019u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019u2.wav",
+    "result": "Sain",
+    "confidence": 0.925,
+    "probability": 0.075,
+    "time": 0.06
+  },
+  {
+    "file": "AVPEPUDEAC0019u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0019u3.wav",
+    "result": "Sain",
+    "confidence": 0.9581,
+    "probability": 0.0419,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0020a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020a1.wav",
+    "result": "Malade",
+    "confidence": 0.401,
+    "probability": 0.401,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0020a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020a2.wav",
+    "result": "Sain",
+    "confidence": 0.9508,
+    "probability": 0.0492,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0020a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020a3.wav",
+    "result": "Sain",
+    "confidence": 0.831,
+    "probability": 0.169,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0020e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020e1.wav",
+    "result": "Sain",
+    "confidence": 0.9606,
+    "probability": 0.0394,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0020e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020e2.wav",
+    "result": "Sain",
+    "confidence": 0.9234,
+    "probability": 0.0766,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0020e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020e3.wav",
+    "result": "Sain",
+    "confidence": 0.9582,
+    "probability": 0.0418,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0020i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020i1.wav",
+    "result": "Malade",
+    "confidence": 0.2301,
+    "probability": 0.2301,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0020i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020i2.wav",
+    "result": "Malade",
+    "confidence": 0.3618,
+    "probability": 0.3618,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0020i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020i3.wav",
+    "result": "Malade",
+    "confidence": 0.3591,
+    "probability": 0.3591,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0020o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020o1.wav",
+    "result": "Sain",
+    "confidence": 0.9578,
+    "probability": 0.0422,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0020o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020o2.wav",
+    "result": "Sain",
+    "confidence": 0.8916,
+    "probability": 0.1084,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0020o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020o3.wav",
+    "result": "Malade",
+    "confidence": 0.6327,
+    "probability": 0.6327,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0020u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020u1.wav",
+    "result": "Sain",
+    "confidence": 0.8764,
+    "probability": 0.1236,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0020u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020u2.wav",
+    "result": "Malade",
+    "confidence": 0.4327,
+    "probability": 0.4327,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0020u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0020u3.wav",
+    "result": "Sain",
+    "confidence": 0.9972,
+    "probability": 0.0028,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0021a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021a1.wav",
+    "result": "Sain",
+    "confidence": 0.9553,
+    "probability": 0.0447,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0021a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021a2.wav",
+    "result": "Sain",
+    "confidence": 0.9912,
+    "probability": 0.0088,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0021a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021a3.wav",
+    "result": "Sain",
+    "confidence": 0.9296,
+    "probability": 0.0704,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0021e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021e1.wav",
+    "result": "Sain",
+    "confidence": 0.976,
+    "probability": 0.024,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0021e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021e2.wav",
+    "result": "Malade",
+    "confidence": 0.207,
+    "probability": 0.207,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0021e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021e3.wav",
+    "result": "Malade",
+    "confidence": 0.2274,
+    "probability": 0.2274,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0021i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021i1.wav",
+    "result": "Sain",
+    "confidence": 0.9933,
+    "probability": 0.0067,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0021i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021i2.wav",
+    "result": "Sain",
+    "confidence": 0.8787,
+    "probability": 0.1213,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0021i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021i3.wav",
+    "result": "Sain",
+    "confidence": 0.8792,
+    "probability": 0.1208,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0021o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021o1.wav",
+    "result": "Sain",
+    "confidence": 0.9979,
+    "probability": 0.0021,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0021o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021o2.wav",
+    "result": "Sain",
+    "confidence": 0.9815,
+    "probability": 0.0185,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0021o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021o3.wav",
+    "result": "Sain",
+    "confidence": 0.8938,
+    "probability": 0.1062,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0021u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021u1.wav",
+    "result": "Sain",
+    "confidence": 0.9897,
+    "probability": 0.0103,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0021u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021u2.wav",
+    "result": "Sain",
+    "confidence": 0.9909,
+    "probability": 0.0091,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0021u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0021u3.wav",
+    "result": "Sain",
+    "confidence": 0.9696,
+    "probability": 0.0304,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0022a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022a1.wav",
+    "result": "Sain",
+    "confidence": 0.9887,
+    "probability": 0.0113,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0022a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022a2.wav",
+    "result": "Malade",
+    "confidence": 0.6046,
+    "probability": 0.6046,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0022a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022a3.wav",
+    "result": "Sain",
+    "confidence": 0.8765,
+    "probability": 0.1235,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0022e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022e1.wav",
+    "result": "Malade",
+    "confidence": 0.6118,
+    "probability": 0.6118,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0022e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022e2.wav",
+    "result": "Malade",
+    "confidence": 0.7371,
+    "probability": 0.7371,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0022e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022e3.wav",
+    "result": "Malade",
+    "confidence": 0.4804,
+    "probability": 0.4804,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0022i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022i1.wav",
+    "result": "Sain",
+    "confidence": 0.9309,
+    "probability": 0.0691,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0022i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022i2.wav",
+    "result": "Malade",
+    "confidence": 0.2527,
+    "probability": 0.2527,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0022i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022i3.wav",
+    "result": "Malade",
+    "confidence": 0.8542,
+    "probability": 0.8542,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0022o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022o1.wav",
+    "result": "Malade",
+    "confidence": 0.4781,
+    "probability": 0.4781,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0022o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022o2.wav",
+    "result": "Sain",
+    "confidence": 0.9844,
+    "probability": 0.0156,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0022o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022o3.wav",
+    "result": "Sain",
+    "confidence": 0.9818,
+    "probability": 0.0182,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0022u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022u1.wav",
+    "result": "Sain",
+    "confidence": 0.944,
+    "probability": 0.056,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0022u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022u2.wav",
+    "result": "Sain",
+    "confidence": 0.9514,
+    "probability": 0.0486,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0022u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0022u3.wav",
+    "result": "Sain",
+    "confidence": 0.9663,
+    "probability": 0.0337,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0023a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023a1.wav",
+    "result": "Malade",
+    "confidence": 0.8653,
+    "probability": 0.8653,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0023a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023a2.wav",
+    "result": "Malade",
+    "confidence": 0.2078,
+    "probability": 0.2078,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0023a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023a3.wav",
+    "result": "Malade",
+    "confidence": 0.3157,
+    "probability": 0.3157,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0023e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023e1.wav",
+    "result": "Malade",
+    "confidence": 0.2413,
+    "probability": 0.2413,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0023e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023e2.wav",
+    "result": "Sain",
+    "confidence": 0.9168,
+    "probability": 0.0832,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0023e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023e3.wav",
+    "result": "Malade",
+    "confidence": 0.2359,
+    "probability": 0.2359,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0023i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023i1.wav",
+    "result": "Sain",
+    "confidence": 0.8319,
+    "probability": 0.1681,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0023i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023i2.wav",
+    "result": "Sain",
+    "confidence": 0.9744,
+    "probability": 0.0256,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0023i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023i3.wav",
+    "result": "Sain",
+    "confidence": 0.8691,
+    "probability": 0.1309,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0023o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023o1.wav",
+    "result": "Sain",
+    "confidence": 0.9677,
+    "probability": 0.0323,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0023o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023o2.wav",
+    "result": "Sain",
+    "confidence": 0.922,
+    "probability": 0.078,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0023o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023o3.wav",
+    "result": "Malade",
+    "confidence": 0.2076,
+    "probability": 0.2076,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0023u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023u1.wav",
+    "result": "Sain",
+    "confidence": 0.9818,
+    "probability": 0.0182,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0023u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023u2.wav",
+    "result": "Sain",
+    "confidence": 0.98,
+    "probability": 0.02,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0023u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0023u3.wav",
+    "result": "Sain",
+    "confidence": 0.9847,
+    "probability": 0.0153,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0024a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024a1.wav",
+    "result": "Malade",
+    "confidence": 0.6087,
+    "probability": 0.6087,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0024a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024a2.wav",
+    "result": "Sain",
+    "confidence": 0.8253,
+    "probability": 0.1747,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0024a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024a3.wav",
+    "result": "Sain",
+    "confidence": 0.986,
+    "probability": 0.014,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0024e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024e1.wav",
+    "result": "Malade",
+    "confidence": 0.7977,
+    "probability": 0.7977,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0024e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024e2.wav",
+    "result": "Sain",
+    "confidence": 0.9484,
+    "probability": 0.0516,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0024e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024e3.wav",
+    "result": "Malade",
+    "confidence": 0.2838,
+    "probability": 0.2838,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0024i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024i1.wav",
+    "result": "Malade",
+    "confidence": 0.4044,
+    "probability": 0.4044,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0024i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024i2.wav",
+    "result": "Malade",
+    "confidence": 0.245,
+    "probability": 0.245,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0024i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024i3.wav",
+    "result": "Malade",
+    "confidence": 0.4387,
+    "probability": 0.4387,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0024o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024o1.wav",
+    "result": "Malade",
+    "confidence": 0.201,
+    "probability": 0.201,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0024o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024o2.wav",
+    "result": "Sain",
+    "confidence": 0.9558,
+    "probability": 0.0442,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0024o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024o3.wav",
+    "result": "Sain",
+    "confidence": 0.9463,
+    "probability": 0.0537,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0024u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024u1.wav",
+    "result": "Malade",
+    "confidence": 0.2939,
+    "probability": 0.2939,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0024u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024u2.wav",
+    "result": "Sain",
+    "confidence": 0.8006,
+    "probability": 0.1994,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0024u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0024u3.wav",
+    "result": "Malade",
+    "confidence": 0.2103,
+    "probability": 0.2103,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025a1.wav",
+    "result": "Malade",
+    "confidence": 0.262,
+    "probability": 0.262,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025a2.wav",
+    "result": "Sain",
+    "confidence": 0.8842,
+    "probability": 0.1158,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025a3.wav",
+    "result": "Sain",
+    "confidence": 0.9935,
+    "probability": 0.0065,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0025e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025e1.wav",
+    "result": "Sain",
+    "confidence": 0.8074,
+    "probability": 0.1926,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025e2.wav",
+    "result": "Malade",
+    "confidence": 0.3762,
+    "probability": 0.3762,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025e3.wav",
+    "result": "Sain",
+    "confidence": 0.8609,
+    "probability": 0.1391,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025i1.wav",
+    "result": "Sain",
+    "confidence": 0.9017,
+    "probability": 0.0983,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025i2.wav",
+    "result": "Sain",
+    "confidence": 0.9876,
+    "probability": 0.0124,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025i3.wav",
+    "result": "Sain",
+    "confidence": 0.9594,
+    "probability": 0.0406,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025o1.wav",
+    "result": "Sain",
+    "confidence": 0.9365,
+    "probability": 0.0635,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025o2.wav",
+    "result": "Sain",
+    "confidence": 0.9759,
+    "probability": 0.0241,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025o3.wav",
+    "result": "Sain",
+    "confidence": 0.8665,
+    "probability": 0.1335,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025u1.wav",
+    "result": "Sain",
+    "confidence": 0.9796,
+    "probability": 0.0204,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025u2.wav",
+    "result": "Sain",
+    "confidence": 0.993,
+    "probability": 0.007,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0025u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0025u3.wav",
+    "result": "Sain",
+    "confidence": 0.9905,
+    "probability": 0.0095,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0026a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026a1.wav",
+    "result": "Sain",
+    "confidence": 0.988,
+    "probability": 0.012,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0026a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026a2.wav",
+    "result": "Sain",
+    "confidence": 0.9502,
+    "probability": 0.0498,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0026a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026a3.wav",
+    "result": "Sain",
+    "confidence": 0.9924,
+    "probability": 0.0076,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0026e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026e1.wav",
+    "result": "Malade",
+    "confidence": 0.2212,
+    "probability": 0.2212,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0026e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026e2.wav",
+    "result": "Malade",
+    "confidence": 0.5972,
+    "probability": 0.5972,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0026e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026e3.wav",
+    "result": "Malade",
+    "confidence": 0.282,
+    "probability": 0.282,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0026i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026i1.wav",
+    "result": "Sain",
+    "confidence": 0.8909,
+    "probability": 0.1091,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0026i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026i2.wav",
+    "result": "Sain",
+    "confidence": 0.8917,
+    "probability": 0.1083,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0026i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026i3.wav",
+    "result": "Sain",
+    "confidence": 0.9888,
+    "probability": 0.0112,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0026o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026o1.wav",
+    "result": "Sain",
+    "confidence": 0.9954,
+    "probability": 0.0046,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0026o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026o2.wav",
+    "result": "Sain",
+    "confidence": 0.9945,
+    "probability": 0.0055,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0026o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026o3.wav",
+    "result": "Sain",
+    "confidence": 0.9979,
+    "probability": 0.0021,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0026u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026u1.wav",
+    "result": "Sain",
+    "confidence": 0.9973,
+    "probability": 0.0027,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0026u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026u2.wav",
+    "result": "Sain",
+    "confidence": 0.9955,
+    "probability": 0.0045,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0026u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0026u3.wav",
+    "result": "Sain",
+    "confidence": 0.9674,
+    "probability": 0.0326,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0027a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027a1.wav",
+    "result": "Malade",
+    "confidence": 0.308,
+    "probability": 0.308,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0027a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027a2.wav",
+    "result": "Sain",
+    "confidence": 0.8544,
+    "probability": 0.1456,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0027a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027a3.wav",
+    "result": "Malade",
+    "confidence": 0.6547,
+    "probability": 0.6547,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0027e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027e1.wav",
+    "result": "Malade",
+    "confidence": 0.798,
+    "probability": 0.798,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0027e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027e2.wav",
+    "result": "Malade",
+    "confidence": 0.5422,
+    "probability": 0.5422,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0027e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027e3.wav",
+    "result": "Malade",
+    "confidence": 0.2931,
+    "probability": 0.2931,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0027i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027i1.wav",
+    "result": "Malade",
+    "confidence": 0.5676,
+    "probability": 0.5676,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0027i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027i2.wav",
+    "result": "Sain",
+    "confidence": 0.9621,
+    "probability": 0.0379,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0027i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027i3.wav",
+    "result": "Malade",
+    "confidence": 0.598,
+    "probability": 0.598,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0027o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027o1.wav",
+    "result": "Malade",
+    "confidence": 0.8555,
+    "probability": 0.8555,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0027o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027o2.wav",
+    "result": "Malade",
+    "confidence": 0.2087,
+    "probability": 0.2087,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0027o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027o3.wav",
+    "result": "Malade",
+    "confidence": 0.2257,
+    "probability": 0.2257,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0027u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027u1.wav",
+    "result": "Sain",
+    "confidence": 0.8334,
+    "probability": 0.1666,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0027u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027u2.wav",
+    "result": "Sain",
+    "confidence": 0.8033,
+    "probability": 0.1967,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0027u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0027u3.wav",
+    "result": "Sain",
+    "confidence": 0.9869,
+    "probability": 0.0131,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0028a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028a1.wav",
+    "result": "Sain",
+    "confidence": 0.9959,
+    "probability": 0.0041,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0028a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028a2.wav",
+    "result": "Sain",
+    "confidence": 0.996,
+    "probability": 0.004,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0028a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028a3.wav",
+    "result": "Sain",
+    "confidence": 0.9925,
+    "probability": 0.0075,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0028e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028e1.wav",
+    "result": "Sain",
+    "confidence": 0.9521,
+    "probability": 0.0479,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0028e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028e2.wav",
+    "result": "Sain",
+    "confidence": 0.9972,
+    "probability": 0.0028,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0028e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028e3.wav",
+    "result": "Sain",
+    "confidence": 0.9929,
+    "probability": 0.0071,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0028i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028i1.wav",
+    "result": "Sain",
+    "confidence": 0.9986,
+    "probability": 0.0014,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0028i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028i2.wav",
+    "result": "Sain",
+    "confidence": 0.9945,
+    "probability": 0.0055,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0028i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028i3.wav",
+    "result": "Sain",
+    "confidence": 0.9957,
+    "probability": 0.0043,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0028o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028o1.wav",
+    "result": "Sain",
+    "confidence": 0.9949,
+    "probability": 0.0051,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0028o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028o2.wav",
+    "result": "Sain",
+    "confidence": 0.9969,
+    "probability": 0.0031,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0028o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028o3.wav",
+    "result": "Sain",
+    "confidence": 0.9975,
+    "probability": 0.0025,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0028u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028u1.wav",
+    "result": "Sain",
+    "confidence": 0.9951,
+    "probability": 0.0049,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0028u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028u2.wav",
+    "result": "Sain",
+    "confidence": 0.9962,
+    "probability": 0.0038,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0028u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0028u3.wav",
+    "result": "Sain",
+    "confidence": 0.9915,
+    "probability": 0.0085,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0029a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029a1.wav",
+    "result": "Malade",
+    "confidence": 0.216,
+    "probability": 0.216,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0029a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029a2.wav",
+    "result": "Malade",
+    "confidence": 0.9558,
+    "probability": 0.9558,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0029a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029a3.wav",
+    "result": "Sain",
+    "confidence": 0.9985,
+    "probability": 0.0015,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0029e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029e1.wav",
+    "result": "Malade",
+    "confidence": 0.9145,
+    "probability": 0.9145,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0029e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029e2.wav",
+    "result": "Sain",
+    "confidence": 0.9769,
+    "probability": 0.0231,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0029e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029e3.wav",
+    "result": "Sain",
+    "confidence": 0.9933,
+    "probability": 0.0067,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0029i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029i1.wav",
+    "result": "Sain",
+    "confidence": 0.8079,
+    "probability": 0.1921,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0029i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029i2.wav",
+    "result": "Sain",
+    "confidence": 0.9978,
+    "probability": 0.0022,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0029i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029i3.wav",
+    "result": "Sain",
+    "confidence": 0.9992,
+    "probability": 0.0008,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0029o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029o1.wav",
+    "result": "Malade",
+    "confidence": 0.4179,
+    "probability": 0.4179,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0029o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029o2.wav",
+    "result": "Sain",
+    "confidence": 0.9869,
+    "probability": 0.0131,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0029o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029o3.wav",
+    "result": "Sain",
+    "confidence": 0.9706,
+    "probability": 0.0294,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0029u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029u1.wav",
+    "result": "Sain",
+    "confidence": 0.9765,
+    "probability": 0.0235,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0029u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029u2.wav",
+    "result": "Sain",
+    "confidence": 0.9954,
+    "probability": 0.0046,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0029u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0029u3.wav",
+    "result": "Sain",
+    "confidence": 0.9948,
+    "probability": 0.0052,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0030a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030a1.wav",
+    "result": "Sain",
+    "confidence": 0.9513,
+    "probability": 0.0487,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0030a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030a2.wav",
+    "result": "Sain",
+    "confidence": 0.9661,
+    "probability": 0.0339,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0030a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030a3.wav",
+    "result": "Sain",
+    "confidence": 0.9947,
+    "probability": 0.0053,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0030e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030e1.wav",
+    "result": "Sain",
+    "confidence": 0.9843,
+    "probability": 0.0157,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0030e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030e2.wav",
+    "result": "Sain",
+    "confidence": 0.9838,
+    "probability": 0.0162,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0030e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030e3.wav",
+    "result": "Sain",
+    "confidence": 0.9864,
+    "probability": 0.0136,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0030i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030i1.wav",
+    "result": "Sain",
+    "confidence": 0.9846,
+    "probability": 0.0154,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0030i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030i2.wav",
+    "result": "Sain",
+    "confidence": 0.908,
+    "probability": 0.092,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0030i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030i3.wav",
+    "result": "Sain",
+    "confidence": 0.9395,
+    "probability": 0.0605,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0030o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030o1.wav",
+    "result": "Sain",
+    "confidence": 0.974,
+    "probability": 0.026,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0030o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030o2.wav",
+    "result": "Sain",
+    "confidence": 0.9852,
+    "probability": 0.0148,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0030o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030o3.wav",
+    "result": "Sain",
+    "confidence": 0.9793,
+    "probability": 0.0207,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0030u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030u1.wav",
+    "result": "Sain",
+    "confidence": 0.9806,
+    "probability": 0.0194,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0030u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030u2.wav",
+    "result": "Sain",
+    "confidence": 0.9277,
+    "probability": 0.0723,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0030u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0030u3.wav",
+    "result": "Sain",
+    "confidence": 0.9742,
+    "probability": 0.0258,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0031a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031a1.wav",
+    "result": "Sain",
+    "confidence": 0.8279,
+    "probability": 0.1721,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0031a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031a2.wav",
+    "result": "Malade",
+    "confidence": 0.9941,
+    "probability": 0.9941,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0031a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031a3.wav",
+    "result": "Malade",
+    "confidence": 0.8837,
+    "probability": 0.8837,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0031e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031e1.wav",
+    "result": "Malade",
+    "confidence": 0.8633,
+    "probability": 0.8633,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0031e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031e2.wav",
+    "result": "Malade",
+    "confidence": 0.3522,
+    "probability": 0.3522,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0031e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031e3.wav",
+    "result": "Malade",
+    "confidence": 0.9092,
+    "probability": 0.9092,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0031i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031i1.wav",
+    "result": "Malade",
+    "confidence": 0.6685,
+    "probability": 0.6685,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0031i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031i2.wav",
+    "result": "Malade",
+    "confidence": 0.2363,
+    "probability": 0.2363,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0031i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031i3.wav",
+    "result": "Malade",
+    "confidence": 0.2153,
+    "probability": 0.2153,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0031o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031o1.wav",
+    "result": "Sain",
+    "confidence": 0.9012,
+    "probability": 0.0988,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0031o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031o2.wav",
+    "result": "Malade",
+    "confidence": 0.8162,
+    "probability": 0.8162,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0031o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031o3.wav",
+    "result": "Malade",
+    "confidence": 0.8591,
+    "probability": 0.8591,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0031u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031u1.wav",
+    "result": "Malade",
+    "confidence": 0.7592,
+    "probability": 0.7592,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0031u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031u2.wav",
+    "result": "Malade",
+    "confidence": 0.5589,
+    "probability": 0.5589,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0031u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0031u3.wav",
+    "result": "Malade",
+    "confidence": 0.9675,
+    "probability": 0.9675,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0033a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033a1.wav",
+    "result": "Malade",
+    "confidence": 0.9967,
+    "probability": 0.9967,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0033a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033a2.wav",
+    "result": "Malade",
+    "confidence": 0.9984,
+    "probability": 0.9984,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0033a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033a3.wav",
+    "result": "Malade",
+    "confidence": 0.9966,
+    "probability": 0.9966,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0033e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033e1.wav",
+    "result": "Malade",
+    "confidence": 0.9977,
+    "probability": 0.9977,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0033e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033e2.wav",
+    "result": "Malade",
+    "confidence": 0.9797,
+    "probability": 0.9797,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0033e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033e3.wav",
+    "result": "Malade",
+    "confidence": 0.9914,
+    "probability": 0.9914,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0033i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033i1.wav",
+    "result": "Malade",
+    "confidence": 0.8543,
+    "probability": 0.8543,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0033i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033i2.wav",
+    "result": "Malade",
+    "confidence": 0.894,
+    "probability": 0.894,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0033i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033i3.wav",
+    "result": "Malade",
+    "confidence": 0.2833,
+    "probability": 0.2833,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0033o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033o1.wav",
+    "result": "Malade",
+    "confidence": 0.9263,
+    "probability": 0.9263,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0033o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033o2.wav",
+    "result": "Sain",
+    "confidence": 0.8684,
+    "probability": 0.1316,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0033o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033o3.wav",
+    "result": "Malade",
+    "confidence": 0.7528,
+    "probability": 0.7528,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0033u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033u1.wav",
+    "result": "Malade",
+    "confidence": 0.2998,
+    "probability": 0.2998,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0033u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033u2.wav",
+    "result": "Sain",
+    "confidence": 0.8382,
+    "probability": 0.1618,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0033u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0033u3.wav",
+    "result": "Malade",
+    "confidence": 0.921,
+    "probability": 0.921,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0034a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034a1.wav",
+    "result": "Sain",
+    "confidence": 0.8873,
+    "probability": 0.1127,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0034a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034a2.wav",
+    "result": "Sain",
+    "confidence": 0.957,
+    "probability": 0.043,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0034a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034a3.wav",
+    "result": "Sain",
+    "confidence": 0.984,
+    "probability": 0.016,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0034e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034e1.wav",
+    "result": "Sain",
+    "confidence": 0.9314,
+    "probability": 0.0686,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0034e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034e2.wav",
+    "result": "Sain",
+    "confidence": 0.9073,
+    "probability": 0.0927,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0034e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034e3.wav",
+    "result": "Sain",
+    "confidence": 0.9316,
+    "probability": 0.0684,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0034i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034i1.wav",
+    "result": "Malade",
+    "confidence": 0.2676,
+    "probability": 0.2676,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0034i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034i2.wav",
+    "result": "Sain",
+    "confidence": 0.9058,
+    "probability": 0.0942,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0034i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034i3.wav",
+    "result": "Sain",
+    "confidence": 0.9054,
+    "probability": 0.0946,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0034o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034o1.wav",
+    "result": "Sain",
+    "confidence": 0.9706,
+    "probability": 0.0294,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0034o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034o2.wav",
+    "result": "Sain",
+    "confidence": 0.9838,
+    "probability": 0.0162,
+    "time": 0.16
+  },
+  {
+    "file": "AVPEPUDEAC0034o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034o3.wav",
+    "result": "Sain",
+    "confidence": 0.9769,
+    "probability": 0.0231,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0034u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034u1.wav",
+    "result": "Malade",
+    "confidence": 0.2589,
+    "probability": 0.2589,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0034u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034u2.wav",
+    "result": "Sain",
+    "confidence": 0.9876,
+    "probability": 0.0124,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0034u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0034u3.wav",
+    "result": "Sain",
+    "confidence": 0.9749,
+    "probability": 0.0251,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0035a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035a1.wav",
+    "result": "Sain",
+    "confidence": 0.8404,
+    "probability": 0.1596,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0035a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035a2.wav",
+    "result": "Sain",
+    "confidence": 0.9872,
+    "probability": 0.0128,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0035a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035a3.wav",
+    "result": "Sain",
+    "confidence": 0.971,
+    "probability": 0.029,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0035e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035e1.wav",
+    "result": "Sain",
+    "confidence": 0.9441,
+    "probability": 0.0559,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0035e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035e2.wav",
+    "result": "Sain",
+    "confidence": 0.9686,
+    "probability": 0.0314,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0035e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035e3.wav",
+    "result": "Sain",
+    "confidence": 0.9614,
+    "probability": 0.0386,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0035i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035i1.wav",
+    "result": "Sain",
+    "confidence": 0.9664,
+    "probability": 0.0336,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0035i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035i2.wav",
+    "result": "Sain",
+    "confidence": 0.9783,
+    "probability": 0.0217,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0035i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035i3.wav",
+    "result": "Sain",
+    "confidence": 0.992,
+    "probability": 0.008,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0035o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035o1.wav",
+    "result": "Sain",
+    "confidence": 0.94,
+    "probability": 0.06,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0035o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035o2.wav",
+    "result": "Sain",
+    "confidence": 0.979,
+    "probability": 0.021,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0035o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035o3.wav",
+    "result": "Sain",
+    "confidence": 0.9876,
+    "probability": 0.0124,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0035u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035u1.wav",
+    "result": "Sain",
+    "confidence": 0.9854,
+    "probability": 0.0146,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0035u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035u2.wav",
+    "result": "Sain",
+    "confidence": 0.9864,
+    "probability": 0.0136,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0035u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0035u3.wav",
+    "result": "Sain",
+    "confidence": 0.9818,
+    "probability": 0.0182,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0037a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037a1.wav",
+    "result": "Malade",
+    "confidence": 0.2828,
+    "probability": 0.2828,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0037a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037a2.wav",
+    "result": "Malade",
+    "confidence": 0.989,
+    "probability": 0.989,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0037a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037a3.wav",
+    "result": "Malade",
+    "confidence": 0.998,
+    "probability": 0.998,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0037e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037e1.wav",
+    "result": "Malade",
+    "confidence": 0.9851,
+    "probability": 0.9851,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0037e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037e2.wav",
+    "result": "Sain",
+    "confidence": 0.8307,
+    "probability": 0.1693,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0037e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037e3.wav",
+    "result": "Malade",
+    "confidence": 0.9516,
+    "probability": 0.9516,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0037i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037i1.wav",
+    "result": "Malade",
+    "confidence": 0.9722,
+    "probability": 0.9722,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0037i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037i2.wav",
+    "result": "Malade",
+    "confidence": 0.8792,
+    "probability": 0.8792,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0037i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037i3.wav",
+    "result": "Malade",
+    "confidence": 0.7796,
+    "probability": 0.7796,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0037o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037o1.wav",
+    "result": "Malade",
+    "confidence": 0.9777,
+    "probability": 0.9777,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0037o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037o2.wav",
+    "result": "Malade",
+    "confidence": 0.9598,
+    "probability": 0.9598,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0037o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037o3.wav",
+    "result": "Malade",
+    "confidence": 0.9735,
+    "probability": 0.9735,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0037u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037u1.wav",
+    "result": "Sain",
+    "confidence": 0.9978,
+    "probability": 0.0022,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0037u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037u2.wav",
+    "result": "Malade",
+    "confidence": 0.9417,
+    "probability": 0.9417,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0037u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0037u3.wav",
+    "result": "Malade",
+    "confidence": 0.7941,
+    "probability": 0.7941,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039a1.wav",
+    "result": "Malade",
+    "confidence": 0.9943,
+    "probability": 0.9943,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039a2.wav",
+    "result": "Malade",
+    "confidence": 0.9379,
+    "probability": 0.9379,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039a3.wav",
+    "result": "Malade",
+    "confidence": 0.9825,
+    "probability": 0.9825,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039e1.wav",
+    "result": "Malade",
+    "confidence": 0.6343,
+    "probability": 0.6343,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039e2.wav",
+    "result": "Sain",
+    "confidence": 0.816,
+    "probability": 0.184,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039e3.wav",
+    "result": "Malade",
+    "confidence": 0.8051,
+    "probability": 0.8051,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039i1.wav",
+    "result": "Sain",
+    "confidence": 0.8286,
+    "probability": 0.1714,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039i2.wav",
+    "result": "Sain",
+    "confidence": 0.8927,
+    "probability": 0.1073,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039i3.wav",
+    "result": "Malade",
+    "confidence": 0.478,
+    "probability": 0.478,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039o1.wav",
+    "result": "Malade",
+    "confidence": 0.9063,
+    "probability": 0.9063,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039o2.wav",
+    "result": "Malade",
+    "confidence": 0.9851,
+    "probability": 0.9851,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039o3.wav",
+    "result": "Malade",
+    "confidence": 0.8324,
+    "probability": 0.8324,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039u1.wav",
+    "result": "Sain",
+    "confidence": 0.99,
+    "probability": 0.01,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039u2.wav",
+    "result": "Malade",
+    "confidence": 0.6051,
+    "probability": 0.6051,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0039u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0039u3.wav",
+    "result": "Sain",
+    "confidence": 0.9952,
+    "probability": 0.0048,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0040a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040a1.wav",
+    "result": "Malade",
+    "confidence": 0.8353,
+    "probability": 0.8353,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0040a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040a2.wav",
+    "result": "Malade",
+    "confidence": 0.4957,
+    "probability": 0.4957,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0040a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040a3.wav",
+    "result": "Sain",
+    "confidence": 0.9162,
+    "probability": 0.0838,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0040e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040e1.wav",
+    "result": "Malade",
+    "confidence": 0.4565,
+    "probability": 0.4565,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0040e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040e2.wav",
+    "result": "Malade",
+    "confidence": 0.5943,
+    "probability": 0.5943,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0040e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040e3.wav",
+    "result": "Malade",
+    "confidence": 0.5917,
+    "probability": 0.5917,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0040i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040i1.wav",
+    "result": "Malade",
+    "confidence": 0.8683,
+    "probability": 0.8683,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0040i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040i2.wav",
+    "result": "Sain",
+    "confidence": 0.897,
+    "probability": 0.103,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0040i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040i3.wav",
+    "result": "Malade",
+    "confidence": 0.8328,
+    "probability": 0.8328,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0040o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040o1.wav",
+    "result": "Sain",
+    "confidence": 0.9424,
+    "probability": 0.0576,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0040o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040o2.wav",
+    "result": "Sain",
+    "confidence": 0.9722,
+    "probability": 0.0278,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0040o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040o3.wav",
+    "result": "Sain",
+    "confidence": 0.983,
+    "probability": 0.017,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0040u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040u1.wav",
+    "result": "Sain",
+    "confidence": 0.9158,
+    "probability": 0.0842,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0040u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040u2.wav",
+    "result": "Sain",
+    "confidence": 0.9878,
+    "probability": 0.0122,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0040u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0040u3.wav",
+    "result": "Sain",
+    "confidence": 0.9911,
+    "probability": 0.0089,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0041a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041a1.wav",
+    "result": "Malade",
+    "confidence": 0.2327,
+    "probability": 0.2327,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0041a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041a2.wav",
+    "result": "Malade",
+    "confidence": 0.9185,
+    "probability": 0.9185,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0041a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041a3.wav",
+    "result": "Malade",
+    "confidence": 0.4351,
+    "probability": 0.4351,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0041e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041e1.wav",
+    "result": "Malade",
+    "confidence": 0.7778,
+    "probability": 0.7778,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0041e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041e2.wav",
+    "result": "Malade",
+    "confidence": 0.3792,
+    "probability": 0.3792,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0041e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041e3.wav",
+    "result": "Malade",
+    "confidence": 0.6712,
+    "probability": 0.6712,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0041i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041i1.wav",
+    "result": "Sain",
+    "confidence": 0.9546,
+    "probability": 0.0454,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0041i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041i2.wav",
+    "result": "Sain",
+    "confidence": 0.9642,
+    "probability": 0.0358,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0041i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041i3.wav",
+    "result": "Sain",
+    "confidence": 0.9553,
+    "probability": 0.0447,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0041o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041o1.wav",
+    "result": "Sain",
+    "confidence": 0.9766,
+    "probability": 0.0234,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0041o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041o2.wav",
+    "result": "Sain",
+    "confidence": 0.9802,
+    "probability": 0.0198,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0041o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041o3.wav",
+    "result": "Sain",
+    "confidence": 0.9615,
+    "probability": 0.0385,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0041u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041u1.wav",
+    "result": "Sain",
+    "confidence": 0.9595,
+    "probability": 0.0405,
+    "time": 0.06
+  },
+  {
+    "file": "AVPEPUDEAC0041u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041u2.wav",
+    "result": "Sain",
+    "confidence": 0.9949,
+    "probability": 0.0051,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0041u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0041u3.wav",
+    "result": "Sain",
+    "confidence": 0.987,
+    "probability": 0.013,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0042a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042a1.wav",
+    "result": "Malade",
+    "confidence": 0.9982,
+    "probability": 0.9982,
+    "time": 0.06
+  },
+  {
+    "file": "AVPEPUDEAC0042a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042a2.wav",
+    "result": "Sain",
+    "confidence": 0.8569,
+    "probability": 0.1431,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0042a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042a3.wav",
+    "result": "Malade",
+    "confidence": 0.4795,
+    "probability": 0.4795,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0042e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042e1.wav",
+    "result": "Malade",
+    "confidence": 0.9959,
+    "probability": 0.9959,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0042e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042e2.wav",
+    "result": "Malade",
+    "confidence": 0.6476,
+    "probability": 0.6476,
+    "time": 0.07
+  },
+  {
+    "file": "AVPEPUDEAC0042e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042e3.wav",
+    "result": "Malade",
+    "confidence": 0.8444,
+    "probability": 0.8444,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0042i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042i1.wav",
+    "result": "Sain",
+    "confidence": 0.9369,
+    "probability": 0.0631,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0042i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042i2.wav",
+    "result": "Sain",
+    "confidence": 0.9836,
+    "probability": 0.0164,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0042i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042i3.wav",
+    "result": "Sain",
+    "confidence": 0.9846,
+    "probability": 0.0154,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0042o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042o1.wav",
+    "result": "Sain",
+    "confidence": 0.9968,
+    "probability": 0.0032,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0042o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042o2.wav",
+    "result": "Malade",
+    "confidence": 0.3073,
+    "probability": 0.3073,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0042o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042o3.wav",
+    "result": "Malade",
+    "confidence": 0.6408,
+    "probability": 0.6408,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0042u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042u1.wav",
+    "result": "Sain",
+    "confidence": 0.9988,
+    "probability": 0.0012,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0042u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042u2.wav",
+    "result": "Sain",
+    "confidence": 0.9845,
+    "probability": 0.0155,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0042u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0042u3.wav",
+    "result": "Sain",
+    "confidence": 0.9939,
+    "probability": 0.0061,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0043a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043a1.wav",
+    "result": "Malade",
+    "confidence": 0.9505,
+    "probability": 0.9505,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0043a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043a2.wav",
+    "result": "Malade",
+    "confidence": 0.892,
+    "probability": 0.892,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0043a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043a3.wav",
+    "result": "Malade",
+    "confidence": 0.7499,
+    "probability": 0.7499,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0043e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043e1.wav",
+    "result": "Malade",
+    "confidence": 0.4178,
+    "probability": 0.4178,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0043e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043e2.wav",
+    "result": "Sain",
+    "confidence": 0.9224,
+    "probability": 0.0776,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0043e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043e3.wav",
+    "result": "Sain",
+    "confidence": 0.8977,
+    "probability": 0.1023,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0043i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043i1.wav",
+    "result": "Sain",
+    "confidence": 0.8933,
+    "probability": 0.1067,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0043i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043i2.wav",
+    "result": "Malade",
+    "confidence": 0.6317,
+    "probability": 0.6317,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0043i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043i3.wav",
+    "result": "Malade",
+    "confidence": 0.3684,
+    "probability": 0.3684,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0043o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043o1.wav",
+    "result": "Sain",
+    "confidence": 0.9706,
+    "probability": 0.0294,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0043o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043o2.wav",
+    "result": "Sain",
+    "confidence": 0.9953,
+    "probability": 0.0047,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0043o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043o3.wav",
+    "result": "Sain",
+    "confidence": 0.982,
+    "probability": 0.018,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0043u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043u1.wav",
+    "result": "Sain",
+    "confidence": 0.9649,
+    "probability": 0.0351,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0043u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043u2.wav",
+    "result": "Sain",
+    "confidence": 0.9477,
+    "probability": 0.0523,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0043u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0043u3.wav",
+    "result": "Sain",
+    "confidence": 0.9864,
+    "probability": 0.0136,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044a1.wav",
+    "result": "Sain",
+    "confidence": 0.9687,
+    "probability": 0.0313,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044a2.wav",
+    "result": "Sain",
+    "confidence": 0.9736,
+    "probability": 0.0264,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044a3.wav",
+    "result": "Sain",
+    "confidence": 0.9539,
+    "probability": 0.0461,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044e1.wav",
+    "result": "Malade",
+    "confidence": 0.5553,
+    "probability": 0.5553,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044e2.wav",
+    "result": "Malade",
+    "confidence": 0.3294,
+    "probability": 0.3294,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044e3.wav",
+    "result": "Sain",
+    "confidence": 0.9801,
+    "probability": 0.0199,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044i1.wav",
+    "result": "Malade",
+    "confidence": 0.2434,
+    "probability": 0.2434,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044i2.wav",
+    "result": "Sain",
+    "confidence": 0.9634,
+    "probability": 0.0366,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044i3.wav",
+    "result": "Sain",
+    "confidence": 0.9847,
+    "probability": 0.0153,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044o1.wav",
+    "result": "Sain",
+    "confidence": 0.993,
+    "probability": 0.007,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044o2.wav",
+    "result": "Sain",
+    "confidence": 0.9891,
+    "probability": 0.0109,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044o3.wav",
+    "result": "Sain",
+    "confidence": 0.9967,
+    "probability": 0.0033,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044u1.wav",
+    "result": "Sain",
+    "confidence": 0.9898,
+    "probability": 0.0102,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044u2.wav",
+    "result": "Sain",
+    "confidence": 0.9879,
+    "probability": 0.0121,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0044u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0044u3.wav",
+    "result": "Sain",
+    "confidence": 0.9915,
+    "probability": 0.0085,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0045a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045a1.wav",
+    "result": "Malade",
+    "confidence": 0.725,
+    "probability": 0.725,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0045a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045a2.wav",
+    "result": "Sain",
+    "confidence": 0.8296,
+    "probability": 0.1704,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0045a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045a3.wav",
+    "result": "Malade",
+    "confidence": 0.2242,
+    "probability": 0.2242,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0045e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045e1.wav",
+    "result": "Malade",
+    "confidence": 0.3956,
+    "probability": 0.3956,
+    "time": 0.07
+  },
+  {
+    "file": "AVPEPUDEAC0045e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045e2.wav",
+    "result": "Sain",
+    "confidence": 0.9845,
+    "probability": 0.0155,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0045e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045e3.wav",
+    "result": "Sain",
+    "confidence": 0.9939,
+    "probability": 0.0061,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0045i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045i1.wav",
+    "result": "Malade",
+    "confidence": 0.7574,
+    "probability": 0.7574,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0045i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045i2.wav",
+    "result": "Sain",
+    "confidence": 0.9299,
+    "probability": 0.0701,
+    "time": 0.06
+  },
+  {
+    "file": "AVPEPUDEAC0045i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045i3.wav",
+    "result": "Sain",
+    "confidence": 0.9843,
+    "probability": 0.0157,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0045o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045o1.wav",
+    "result": "Sain",
+    "confidence": 0.8244,
+    "probability": 0.1756,
+    "time": 0.06
+  },
+  {
+    "file": "AVPEPUDEAC0045o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045o2.wav",
+    "result": "Sain",
+    "confidence": 0.9252,
+    "probability": 0.0748,
+    "time": 0.07
+  },
+  {
+    "file": "AVPEPUDEAC0045o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045o3.wav",
+    "result": "Sain",
+    "confidence": 0.9683,
+    "probability": 0.0317,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0045u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045u1.wav",
+    "result": "Malade",
+    "confidence": 0.3576,
+    "probability": 0.3576,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0045u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045u2.wav",
+    "result": "Sain",
+    "confidence": 0.9889,
+    "probability": 0.0111,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0045u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0045u3.wav",
+    "result": "Sain",
+    "confidence": 0.9905,
+    "probability": 0.0095,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0046a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046a1.wav",
+    "result": "Sain",
+    "confidence": 0.9636,
+    "probability": 0.0364,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0046a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046a2.wav",
+    "result": "Sain",
+    "confidence": 0.9974,
+    "probability": 0.0026,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0046a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046a3.wav",
+    "result": "Sain",
+    "confidence": 0.9971,
+    "probability": 0.0029,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0046e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046e1.wav",
+    "result": "Sain",
+    "confidence": 0.9949,
+    "probability": 0.0051,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0046e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046e2.wav",
+    "result": "Sain",
+    "confidence": 0.9947,
+    "probability": 0.0053,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0046e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046e3.wav",
+    "result": "Sain",
+    "confidence": 0.9986,
+    "probability": 0.0014,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0046i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046i1.wav",
+    "result": "Sain",
+    "confidence": 0.9967,
+    "probability": 0.0033,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0046i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046i2.wav",
+    "result": "Sain",
+    "confidence": 0.9971,
+    "probability": 0.0029,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0046i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046i3.wav",
+    "result": "Sain",
+    "confidence": 0.9637,
+    "probability": 0.0363,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0046o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046o1.wav",
+    "result": "Sain",
+    "confidence": 0.9934,
+    "probability": 0.0066,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0046o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046o2.wav",
+    "result": "Sain",
+    "confidence": 0.994,
+    "probability": 0.006,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0046o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046o3.wav",
+    "result": "Sain",
+    "confidence": 0.9892,
+    "probability": 0.0108,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0046u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046u1.wav",
+    "result": "Sain",
+    "confidence": 0.9993,
+    "probability": 0.0007,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0046u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046u2.wav",
+    "result": "Sain",
+    "confidence": 0.9964,
+    "probability": 0.0036,
+    "time": 0.06
+  },
+  {
+    "file": "AVPEPUDEAC0046u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0046u3.wav",
+    "result": "Sain",
+    "confidence": 0.9744,
+    "probability": 0.0256,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0047a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047a1.wav",
+    "result": "Sain",
+    "confidence": 0.8902,
+    "probability": 0.1098,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0047a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047a2.wav",
+    "result": "Malade",
+    "confidence": 0.3385,
+    "probability": 0.3385,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0047a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047a3.wav",
+    "result": "Malade",
+    "confidence": 0.5719,
+    "probability": 0.5719,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0047e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047e1.wav",
+    "result": "Malade",
+    "confidence": 0.4374,
+    "probability": 0.4374,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0047e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047e2.wav",
+    "result": "Malade",
+    "confidence": 0.5753,
+    "probability": 0.5753,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0047e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047e3.wav",
+    "result": "Malade",
+    "confidence": 0.2475,
+    "probability": 0.2475,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0047i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047i1.wav",
+    "result": "Malade",
+    "confidence": 0.4407,
+    "probability": 0.4407,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0047i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047i2.wav",
+    "result": "Malade",
+    "confidence": 0.404,
+    "probability": 0.404,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0047i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047i3.wav",
+    "result": "Sain",
+    "confidence": 0.9036,
+    "probability": 0.0964,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0047o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047o1.wav",
+    "result": "Sain",
+    "confidence": 0.9366,
+    "probability": 0.0634,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0047o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047o2.wav",
+    "result": "Malade",
+    "confidence": 0.287,
+    "probability": 0.287,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0047o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047o3.wav",
+    "result": "Sain",
+    "confidence": 0.841,
+    "probability": 0.159,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0047u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047u1.wav",
+    "result": "Sain",
+    "confidence": 0.9481,
+    "probability": 0.0519,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0047u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047u2.wav",
+    "result": "Sain",
+    "confidence": 0.9501,
+    "probability": 0.0499,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0047u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0047u3.wav",
+    "result": "Sain",
+    "confidence": 0.9252,
+    "probability": 0.0748,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048a1.wav",
+    "result": "Sain",
+    "confidence": 0.9964,
+    "probability": 0.0036,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048a2.wav",
+    "result": "Sain",
+    "confidence": 0.9404,
+    "probability": 0.0596,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048a3.wav",
+    "result": "Sain",
+    "confidence": 0.9741,
+    "probability": 0.0259,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048e1.wav",
+    "result": "Sain",
+    "confidence": 0.9863,
+    "probability": 0.0137,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048e2.wav",
+    "result": "Sain",
+    "confidence": 0.9776,
+    "probability": 0.0224,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048e3.wav",
+    "result": "Malade",
+    "confidence": 0.3823,
+    "probability": 0.3823,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048i1.wav",
+    "result": "Malade",
+    "confidence": 0.5006,
+    "probability": 0.5006,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048i2.wav",
+    "result": "Malade",
+    "confidence": 0.4934,
+    "probability": 0.4934,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048i3.wav",
+    "result": "Malade",
+    "confidence": 0.6518,
+    "probability": 0.6518,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0048o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048o1.wav",
+    "result": "Sain",
+    "confidence": 0.8114,
+    "probability": 0.1886,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048o2.wav",
+    "result": "Malade",
+    "confidence": 0.2107,
+    "probability": 0.2107,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048o3.wav",
+    "result": "Malade",
+    "confidence": 0.8419,
+    "probability": 0.8419,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048u1.wav",
+    "result": "Malade",
+    "confidence": 0.3055,
+    "probability": 0.3055,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048u2.wav",
+    "result": "Malade",
+    "confidence": 0.2883,
+    "probability": 0.2883,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0048u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0048u3.wav",
+    "result": "Malade",
+    "confidence": 0.2114,
+    "probability": 0.2114,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0049a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049a1.wav",
+    "result": "Malade",
+    "confidence": 0.5606,
+    "probability": 0.5606,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0049a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049a2.wav",
+    "result": "Malade",
+    "confidence": 0.917,
+    "probability": 0.917,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0049a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049a3.wav",
+    "result": "Malade",
+    "confidence": 0.7701,
+    "probability": 0.7701,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0049e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049e1.wav",
+    "result": "Sain",
+    "confidence": 0.8091,
+    "probability": 0.1909,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0049e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049e2.wav",
+    "result": "Malade",
+    "confidence": 0.691,
+    "probability": 0.691,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0049e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049e3.wav",
+    "result": "Malade",
+    "confidence": 0.9522,
+    "probability": 0.9522,
+    "time": 0.06
+  },
+  {
+    "file": "AVPEPUDEAC0049i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049i1.wav",
+    "result": "Malade",
+    "confidence": 0.3692,
+    "probability": 0.3692,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0049i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049i2.wav",
+    "result": "Malade",
+    "confidence": 0.8772,
+    "probability": 0.8772,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0049i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049i3.wav",
+    "result": "Malade",
+    "confidence": 0.8027,
+    "probability": 0.8027,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0049o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049o1.wav",
+    "result": "Sain",
+    "confidence": 0.9393,
+    "probability": 0.0607,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0049o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049o2.wav",
+    "result": "Malade",
+    "confidence": 0.7024,
+    "probability": 0.7024,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0049o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049o3.wav",
+    "result": "Sain",
+    "confidence": 0.829,
+    "probability": 0.171,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0049u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049u1.wav",
+    "result": "Malade",
+    "confidence": 0.6518,
+    "probability": 0.6518,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0049u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049u2.wav",
+    "result": "Malade",
+    "confidence": 0.929,
+    "probability": 0.929,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0049u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0049u3.wav",
+    "result": "Malade",
+    "confidence": 0.827,
+    "probability": 0.827,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0050a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050a1.wav",
+    "result": "Malade",
+    "confidence": 0.6611,
+    "probability": 0.6611,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0050a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050a2.wav",
+    "result": "Malade",
+    "confidence": 0.7155,
+    "probability": 0.7155,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0050a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050a3.wav",
+    "result": "Sain",
+    "confidence": 0.88,
+    "probability": 0.12,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0050e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050e1.wav",
+    "result": "Sain",
+    "confidence": 0.9081,
+    "probability": 0.0919,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0050e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050e2.wav",
+    "result": "Sain",
+    "confidence": 0.9244,
+    "probability": 0.0756,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0050e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050e3.wav",
+    "result": "Sain",
+    "confidence": 0.9648,
+    "probability": 0.0352,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0050i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050i1.wav",
+    "result": "Sain",
+    "confidence": 0.8674,
+    "probability": 0.1326,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0050i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050i2.wav",
+    "result": "Malade",
+    "confidence": 0.9701,
+    "probability": 0.9701,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0050i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050i3.wav",
+    "result": "Malade",
+    "confidence": 0.5419,
+    "probability": 0.5419,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0050o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050o1.wav",
+    "result": "Sain",
+    "confidence": 0.9877,
+    "probability": 0.0123,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0050o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050o2.wav",
+    "result": "Sain",
+    "confidence": 0.971,
+    "probability": 0.029,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0050o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050o3.wav",
+    "result": "Sain",
+    "confidence": 0.9973,
+    "probability": 0.0027,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0050u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050u1.wav",
+    "result": "Sain",
+    "confidence": 0.969,
+    "probability": 0.031,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0050u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050u2.wav",
+    "result": "Sain",
+    "confidence": 0.9931,
+    "probability": 0.0069,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0050u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0050u3.wav",
+    "result": "Sain",
+    "confidence": 0.8871,
+    "probability": 0.1129,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0051a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051a1.wav",
+    "result": "Malade",
+    "confidence": 0.8636,
+    "probability": 0.8636,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0051a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051a2.wav",
+    "result": "Malade",
+    "confidence": 0.7696,
+    "probability": 0.7696,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0051a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051a3.wav",
+    "result": "Malade",
+    "confidence": 0.575,
+    "probability": 0.575,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0051e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051e1.wav",
+    "result": "Sain",
+    "confidence": 0.8776,
+    "probability": 0.1224,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0051e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051e2.wav",
+    "result": "Malade",
+    "confidence": 0.2652,
+    "probability": 0.2652,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0051e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051e3.wav",
+    "result": "Malade",
+    "confidence": 0.3471,
+    "probability": 0.3471,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0051i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051i1.wav",
+    "result": "Sain",
+    "confidence": 0.8866,
+    "probability": 0.1134,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0051i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051i2.wav",
+    "result": "Malade",
+    "confidence": 0.6079,
+    "probability": 0.6079,
+    "time": 0.06
+  },
+  {
+    "file": "AVPEPUDEAC0051i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051i3.wav",
+    "result": "Malade",
+    "confidence": 0.5531,
+    "probability": 0.5531,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0051o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051o1.wav",
+    "result": "Sain",
+    "confidence": 0.902,
+    "probability": 0.098,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0051o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051o2.wav",
+    "result": "Sain",
+    "confidence": 0.9178,
+    "probability": 0.0822,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0051o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051o3.wav",
+    "result": "Sain",
+    "confidence": 0.8826,
+    "probability": 0.1174,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0051u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051u1.wav",
+    "result": "Sain",
+    "confidence": 0.9469,
+    "probability": 0.0531,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0051u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051u2.wav",
+    "result": "Sain",
+    "confidence": 0.9268,
+    "probability": 0.0732,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0051u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0051u3.wav",
+    "result": "Sain",
+    "confidence": 0.8762,
+    "probability": 0.1238,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0052a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052a1.wav",
+    "result": "Sain",
+    "confidence": 0.8991,
+    "probability": 0.1009,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0052a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052a2.wav",
+    "result": "Sain",
+    "confidence": 0.9914,
+    "probability": 0.0086,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0052a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052a3.wav",
+    "result": "Sain",
+    "confidence": 0.997,
+    "probability": 0.003,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0052e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052e1.wav",
+    "result": "Malade",
+    "confidence": 0.4272,
+    "probability": 0.4272,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0052e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052e2.wav",
+    "result": "Sain",
+    "confidence": 0.9567,
+    "probability": 0.0433,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0052e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052e3.wav",
+    "result": "Sain",
+    "confidence": 0.971,
+    "probability": 0.029,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0052i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052i1.wav",
+    "result": "Malade",
+    "confidence": 0.4393,
+    "probability": 0.4393,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0052i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052i2.wav",
+    "result": "Sain",
+    "confidence": 0.986,
+    "probability": 0.014,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0052i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052i3.wav",
+    "result": "Sain",
+    "confidence": 0.9683,
+    "probability": 0.0317,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0052o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052o1.wav",
+    "result": "Sain",
+    "confidence": 0.8729,
+    "probability": 0.1271,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0052o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052o2.wav",
+    "result": "Sain",
+    "confidence": 0.9884,
+    "probability": 0.0116,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0052o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052o3.wav",
+    "result": "Sain",
+    "confidence": 0.9948,
+    "probability": 0.0052,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0052u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052u1.wav",
+    "result": "Sain",
+    "confidence": 0.9809,
+    "probability": 0.0191,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0052u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052u2.wav",
+    "result": "Sain",
+    "confidence": 0.9906,
+    "probability": 0.0094,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0052u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0052u3.wav",
+    "result": "Malade",
+    "confidence": 0.8574,
+    "probability": 0.8574,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0053a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053a1.wav",
+    "result": "Malade",
+    "confidence": 0.4911,
+    "probability": 0.4911,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0053a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053a2.wav",
+    "result": "Sain",
+    "confidence": 0.8716,
+    "probability": 0.1284,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0053a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053a3.wav",
+    "result": "Malade",
+    "confidence": 0.6788,
+    "probability": 0.6788,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0053e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053e1.wav",
+    "result": "Sain",
+    "confidence": 0.9346,
+    "probability": 0.0654,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0053e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053e2.wav",
+    "result": "Sain",
+    "confidence": 0.8812,
+    "probability": 0.1188,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0053e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053e3.wav",
+    "result": "Malade",
+    "confidence": 0.4963,
+    "probability": 0.4963,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0053i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053i1.wav",
+    "result": "Sain",
+    "confidence": 0.8467,
+    "probability": 0.1533,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0053i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053i2.wav",
+    "result": "Malade",
+    "confidence": 0.6349,
+    "probability": 0.6349,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0053i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053i3.wav",
+    "result": "Malade",
+    "confidence": 0.7923,
+    "probability": 0.7923,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0053o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053o1.wav",
+    "result": "Malade",
+    "confidence": 0.3149,
+    "probability": 0.3149,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0053o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053o2.wav",
+    "result": "Malade",
+    "confidence": 0.5698,
+    "probability": 0.5698,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0053o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053o3.wav",
+    "result": "Sain",
+    "confidence": 0.8325,
+    "probability": 0.1675,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0053u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053u1.wav",
+    "result": "Sain",
+    "confidence": 0.8635,
+    "probability": 0.1365,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0053u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053u2.wav",
+    "result": "Sain",
+    "confidence": 0.8971,
+    "probability": 0.1029,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0053u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0053u3.wav",
+    "result": "Malade",
+    "confidence": 0.2936,
+    "probability": 0.2936,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054a1.wav",
+    "result": "Malade",
+    "confidence": 0.3449,
+    "probability": 0.3449,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054a2.wav",
+    "result": "Sain",
+    "confidence": 0.8656,
+    "probability": 0.1344,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054a3.wav",
+    "result": "Sain",
+    "confidence": 0.9713,
+    "probability": 0.0287,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054e1.wav",
+    "result": "Malade",
+    "confidence": 0.6504,
+    "probability": 0.6504,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054e2.wav",
+    "result": "Sain",
+    "confidence": 0.9328,
+    "probability": 0.0672,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054e3.wav",
+    "result": "Sain",
+    "confidence": 0.9447,
+    "probability": 0.0553,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054i1.wav",
+    "result": "Malade",
+    "confidence": 0.2081,
+    "probability": 0.2081,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054i2.wav",
+    "result": "Malade",
+    "confidence": 0.2863,
+    "probability": 0.2863,
+    "time": 0.03
+  },
+  {
+    "file": "AVPEPUDEAC0054i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054i3.wav",
+    "result": "Sain",
+    "confidence": 0.8893,
+    "probability": 0.1107,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054o1.wav",
+    "result": "Malade",
+    "confidence": 0.707,
+    "probability": 0.707,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054o2.wav",
+    "result": "Malade",
+    "confidence": 0.5826,
+    "probability": 0.5826,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054o3.wav",
+    "result": "Malade",
+    "confidence": 0.2794,
+    "probability": 0.2794,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054u1.wav",
+    "result": "Sain",
+    "confidence": 0.9774,
+    "probability": 0.0226,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054u2.wav",
+    "result": "Sain",
+    "confidence": 0.9955,
+    "probability": 0.0045,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0054u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0054u3.wav",
+    "result": "Sain",
+    "confidence": 0.9659,
+    "probability": 0.0341,
+    "time": 0.06
+  },
+  {
+    "file": "AVPEPUDEAC0057a1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057a1.wav",
+    "result": "Malade",
+    "confidence": 0.7846,
+    "probability": 0.7846,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0057a2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057a2.wav",
+    "result": "Malade",
+    "confidence": 0.4891,
+    "probability": 0.4891,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0057a3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057a3.wav",
+    "result": "Sain",
+    "confidence": 0.9268,
+    "probability": 0.0732,
+    "time": 0.06
+  },
+  {
+    "file": "AVPEPUDEAC0057e1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057e1.wav",
+    "result": "Sain",
+    "confidence": 0.8486,
+    "probability": 0.1514,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0057e2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057e2.wav",
+    "result": "Malade",
+    "confidence": 0.2551,
+    "probability": 0.2551,
+    "time": 0.05
+  },
+  {
+    "file": "AVPEPUDEAC0057e3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057e3.wav",
+    "result": "Malade",
+    "confidence": 0.2405,
+    "probability": 0.2405,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0057i1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057i1.wav",
+    "result": "Malade",
+    "confidence": 0.5717,
+    "probability": 0.5717,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0057i2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057i2.wav",
+    "result": "Malade",
+    "confidence": 0.4321,
+    "probability": 0.4321,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0057i3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057i3.wav",
+    "result": "Sain",
+    "confidence": 0.804,
+    "probability": 0.196,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0057o1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057o1.wav",
+    "result": "Malade",
+    "confidence": 0.9382,
+    "probability": 0.9382,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0057o2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057o2.wav",
+    "result": "Malade",
+    "confidence": 0.8465,
+    "probability": 0.8465,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0057o3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057o3.wav",
+    "result": "Sain",
+    "confidence": 0.8033,
+    "probability": 0.1967,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0057u1.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057u1.wav",
+    "result": "Malade",
+    "confidence": 0.6628,
+    "probability": 0.6628,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0057u2.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057u2.wav",
+    "result": "Malade",
+    "confidence": 0.224,
+    "probability": 0.224,
+    "time": 0.04
+  },
+  {
+    "file": "AVPEPUDEAC0057u3.wav",
+    "path": "C:\\Users\\MSI\\Desktop\\pd_project\\DATA\\Original\\Control\\AVPEPUDEAC0057u3.wav",
+    "result": "Sain",
+    "confidence": 0.8642,
+    "probability": 0.1358,
+    "time": 0.04
+  }
+]

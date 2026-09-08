@@ -1,0 +1,11 @@
+@startuml
+actor "Médecin" as Doctor
+
+rectangle "ParkimVoice" {
+    usecase "S'inscrire" as UC1
+    usecase "Se connecter" as UC2
+}
+
+Doctor --> UC1
+Doctor --> UC2
+@enduml

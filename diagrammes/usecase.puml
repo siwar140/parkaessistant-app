@@ -1,0 +1,35 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Médecin" as Doctor
+
+rectangle "ParkimVoice Application" {
+    usecase "S'inscrire" as UC1
+    usecase "Se connecter" as UC2
+    usecase "Gérer les patients" as UC3
+    usecase "Effectuer une analyse vocale" as UC4
+    usecase "Consulter l'historique" as UC5
+    usecase "Réinitialiser le mot de passe" as UC6
+    usecase "Gérer son profil" as UC7
+}
+
+Doctor --> UC1
+Doctor --> UC2
+Doctor --> UC3
+Doctor --> UC4
+Doctor --> UC5
+Doctor --> UC6
+Doctor --> UC7
+
+note right of UC4
+  Upload d'un fichier audio
+  ou enregistrement direct
+end note
+
+note right of UC6
+  Envoi d'un code par email
+  via Resend API
+end note
+
+@enduml
